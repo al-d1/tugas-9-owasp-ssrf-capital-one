@@ -1,2 +1,6 @@
-# tugas-9-owasp-ssrf-capital-one
-Tugas Terstruktur Minggu 9 - Implementasi Pengujian Perangkat Lunak: Vulnerability Report A10 SSRF (Capital One 2019)
+# Tugas 9 - Analisis Kerentanan OWASP Top 10
+- Nama: Mochamad Aldi Ardiansyah
+- NIM: 1224020
+- Mata kuliah: Implementasi Pengujian Perangkat Lunak
+- Kategori: A10 - Server-Side Request Forgery (SSRF)
+- Studi kasus: Capital One (2019)
